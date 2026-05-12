@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://chromewebstore.google.com/detail/eaoebngdfobicneaaacpjjldnknhcpdg">
+  <a href="https://chromewebstore.google.com/detail/dkdhafdpjeafkmojbmikjgaeckankggn">
     <img src="https://img.shields.io/badge/Chrome%20Web%20Store-Install%20Free-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Install from Chrome Web Store" />
   </a>
 </p>
