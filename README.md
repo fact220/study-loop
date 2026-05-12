@@ -159,7 +159,7 @@ Full support for **English** and **Japanese**. Auto-detects your browser languag
 
 ## Install
 
-<a href="https://chromewebstore.google.com/detail/eaoebngdfobicneaaacpjjldnknhcpdg">
+<a href="https://chromewebstore.google.com/detail/dkdhafdpjeafkmojbmikjgaeckankggn">
   <img src="https://img.shields.io/badge/Install%20from-Chrome%20Web%20Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store" />
 </a>
 
@@ -239,12 +239,12 @@ Found a bug? Have an idea?
 
 If Study Loop helps your learning, please consider:
 - ⭐ **Starring this repo** — it helps others find the project
-- 📝 **Leaving a review** on the [Chrome Web Store](https://chromewebstore.google.com/detail/eaoebngdfobicneaaacpjjldnknhcpdg/reviews)
+- 📝 **Leaving a review** on the [Chrome Web Store](https://chromewebstore.google.com/detail/dkdhafdpjeafkmojbmikjgaeckankggn/reviews)
 - 🔄 **Sharing** with friends who study on YouTube
 
 ---
 
 <p align="center">
   Made with ☕ in Japan<br>
-  <a href="https://chromewebstore.google.com/detail/eaoebngdfobicneaaacpjjldnknhcpdg">Chrome Web Store</a> · <a href="https://studyloop-privacy.pages.dev/">Privacy Policy</a>
+  <a href="https://chromewebstore.google.com/detail/dkdhafdpjeafkmojbmikjgaeckankggn">Chrome Web Store</a> · <a href="https://studyloop-privacy.pages.dev/">Privacy Policy</a>
 </p>
