@@ -41,7 +41,7 @@ YouTube has no way to:
 ## Demo
 
 <p align="center">
-  <img src="screenshots/demo.gif" alt="Study Loop Demo" width="800" />
+  <img src="screenshots/01_abloop_en.png" alt="Study Loop Demo" width="800" />
 </p>
 
 > Set A/B points → Loop automatically → Save with tags → Track mastery
@@ -67,7 +67,7 @@ YouTube has no way to:
 Set precise start and end points on any YouTube video. Fine-tune by **0.5 seconds** (or **0.1s** with Shift). Loop runs automatically until you stop it.
 
 <p align="center">
-  <img src="screenshots/control-bar.png" alt="Control Bar" width="700" />
+  <img src="screenshots/01_abloop_ja.png" alt="Control Bar" width="700" />
 </p>
 
 ### 📌 Save & Tag Segments
@@ -98,7 +98,7 @@ Organize your videos by subject:
 Visualize your daily study time on a calendar heatmap. Stay consistent, build streaks.
 
 <p align="center">
-  <img src="screenshots/calendar.png" alt="Study Calendar" width="400" />
+  <img src="screenshots/02_management_ja.png" alt="Study Calendar" width="400" />
 </p>
 
 ### ⏸ Loop Interval
